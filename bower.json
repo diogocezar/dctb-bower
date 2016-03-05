@@ -1,0 +1,19 @@
+{
+  "name": "dctb-bower",
+  "homepage": "https://github.com/diogocezar/dctb-bower",
+  "authors": [
+    "Diogo Cezar Teixeira Batista <diogo@diogocezar.com>"
+  ],
+  "description": "Just a simple example of bower usage.",
+  "main": "index.html",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "bower"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^2.2.1"
+  }
+}
